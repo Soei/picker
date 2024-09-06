@@ -1,0 +1,32 @@
+{
+  "name": "@soei/picker",
+  "version": "1.0.4",
+  "description": "picker([{id:10}, {id:20}], '*.id=>[]', true) => [ 10, 20 ], ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "keywords": [
+    "picker",
+    "merge",
+    "each",
+    "runer",
+    "iList2Array",
+    "iSplit",
+    "isFunction",
+    "isNil",
+    "isSimplyType",
+    "isArray",
+    "isString",
+    "isNodeList"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/alwbg/dialog"
+  },
+  "dependencies": {
+    "@soei/tools": "^1.0.7"
+  },
+  "author": "soei | alwbg@163.com",
+  "license": "ISC"
+}
