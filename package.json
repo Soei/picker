@@ -1,6 +1,6 @@
 {
   "name": "@soei/picker",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "picker([{id:10}, {id:20}], '*.id=>[]', true) => [ 10, 20 ], ...",
   "main": "index.js",
   "scripts": {
